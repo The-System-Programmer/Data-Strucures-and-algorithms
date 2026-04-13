@@ -1,0 +1,62 @@
+Brute Force
+    Selection Sort
+    Sequential Search
+
+String algorithm
+    Naive string matching
+    KMP algorithm
+
+Divide and Conquer
+    Merge Sort
+    Quick Sort
+    Binary Search
+        Lower/Upper Bound
+        Search in rotated sorted array
+        Binary search on answer
+    Strassen’s Matrix Multiplication
+
+Decrease and Conquer
+    Insertion Sort
+    Euclid’s Algorithm (GCD)
+    Topological Sorting
+
+Two Pointers and Sliding Window
+    Sliding window
+    Two pointers
+
+Transform and Conquer
+    Heap Sort
+        Top K Elements
+        Kth Largest/Smallest
+        Merge K Sorted Lists
+    Counting Sort
+
+Dynamic Programming
+    Warshall Algorithm
+    Floyd’s Algorithm
+    0/1 Knapsack
+    Longest Common Subsequence
+    Matrix Chain Multiplication
+    Kadane Algorithm
+
+Greedy Technique
+    Kruskal Algorithm
+    Prim’s Algorithm
+    Dijkstra Algorithm
+    Huffman Coding
+    Activity Selection Problem
+
+Backtracking
+    N-Queens Problem
+    Hamiltonian Cycle
+    Subset Sum Problem
+    Graph Coloring
+
+Branch and Bound
+    0/1 Knapsack
+    Traveling Salesman Problem
+
+Graph Traversal
+    Depth First Search
+    Breadth First Search
+    Union-find
